@@ -1,0 +1,167 @@
+# Ignore Visual Studio temporary files, build results, and other generated files
+
+# General
+*.vs/
+*.suo
+*.user
+*.sln.docstates
+*.suo
+*.cache
+*.log
+
+# Visual Studio files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.resx
+*.ipch
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.opensdf
+*.sdf
+*.scc
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.gpstate
+
+# NuGet Packages
+*.nuget.packages
+
+# Package files
+*.nupkg
+*.vsix
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Exclude .NET Core build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# TDS Configuration
+*.user
+
+# TDS Backups
+*.bak
+
+# Other
+[Tt]est[Rr]esult*
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# JetBrains Rider
+.idea/
+
+# Rider
+.idea/
+
+# SonarQube
+.sonarqube/
+
+# CodeRush
+.cr/
+
+# JustCode
+.JustCode/
+
+# TeamCity
+_TeamCity/
+
+# DotCover
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.Publish.xml
+*.pubxml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Team Explorer
+*.psess
+*.vsp
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio Online/TFS
+[Tt]est[Ff]iles/
+LoadTest[0-9]*
+*.vsmdi
+
+# AxoCover - In-code generated files
+.coverage
+.coverage.runsettings
+
+# nvQuickTheme
+.nvQuickTheme
+
+# Extensions
+*.vsix
